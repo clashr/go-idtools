@@ -11,7 +11,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/docker/docker/pkg/system"
+	"github.com/clashr/go-system"
 	"github.com/opencontainers/runc/libcontainer/user"
 )
 
